@@ -19,7 +19,7 @@ const options = {
     },
     servers: [
       {
-        url: "http://localhost:5000", // Adjust the URL as per your local/production setup
+        url: "https://notes-app-backend-al5s.onrender.com", // Adjust the URL as per your local/production setup
       },
     ],
     components: {
